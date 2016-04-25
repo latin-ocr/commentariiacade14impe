@@ -1,0 +1,36 @@
+38 ΜΕἹἪ. INTEG. FORM. DIFFERENT RATION.
+
+in qua srastione'variabilis ,τ in denominatore plures- ha-
+beat dimensiones quam iu numeratore. Tertio ergo tota
+integrandi difficultas reducitur ad integrationem istiusmodi
+formularum3 ad quam absoluendam oportet denominato-
+rem
+1—l—otx-l-f3x²—l—-¹yx’-l-3x⁴—l-ex⁵-l— etc.
+
+in suos fictores simplices singulos huius formae 1 -l-pfx resol-
+vere‚quorum vnusquisque modo expolito tmstatus dabit vnam
+integralis quaesiti partem, ita vt siugulis his partibus , quae ex
+singulis denominatoris saftoribus oriuntur, colligendis obtinea-
+tur integrale quaesitum. In hoc autem negotio molestiam fa-
+cesfit‚ siduo pluresue istorum faistorum {impliciitm fuerint
+inter ie aequales , huic vcro incommodo remedium attu-
+limus ‚ dum docuimus, quomodo ex faetoribus aequalibus
+coniunffls integralis pars ex ipfis oritmda inueniri debeat.
+Vnicum autem incommodum adhuc saepenumero accedit ,
+quod in hoc consistit, vt quoties denominator habeat
+faetores imaginarios , toties integralis partes ex iis oriun-
+dae fiant quoque imaginariae: quae etsi couiunc'iim (unitae
+quantitatem realem praebent , tamen ea ex imaginariisnon
+tim liquido appareat. Quamobrem operam dabimus, vt
+integrale ab imaginariis omniuo liberam ae solis quantita-
+tibus realibus expressum exhibeamus.
+
+§. 3 3. Dubium enim est nullum , quin formulae differen-
+tialis realis integrale pariter sit reale, namque integrale nil aliud
+est uili lumma omnium valorum differentialium formulae fro-
+positae a minimo ipsius x valore ad maximum contiuuo pro·
+gredientium , qui cum fint omnes reales,ncccffe est, vt eiiam
+
+eorum summa, hoc est integrale sit, quantitas realis. Quoc1rca
+ctiam
+

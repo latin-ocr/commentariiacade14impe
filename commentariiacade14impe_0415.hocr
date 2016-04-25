@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentariiacade14impe/commentariiacade14impe_0415.png"; bbox 0 0 2020 2668; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 671 71 1790 140">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 671 71 1790 140">
+     <span class='ocr_line' id='line_1_1' title="bbox 671 71 1790 140; baseline 0 -22"><span class='ocrx_word' id='word_1_1' title='bbox 671 78 695 120; x_wconf 81' lang='grc' dir='ltr'><strong><em>ί</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 702 73 1082 140; x_wconf 56' lang='grc' dir='ltr'><em>ὒηῃηΛιϊῐηᾳν,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1124 73 1552 120; x_wconf 52' lang='lat' dir='ltr'><em>25c„]&#39;elr.7b7)2.1[lV.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1569 71 1683 122; x_wconf 57' lang='lat' dir='ltr'><em>ffb.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1703 77 1790 119; x_wconf 73' lang='lat' dir='ltr'><em>VJT.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 367 257 1930 2597">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 367 257 1930 2597">
+     <span class='ocr_line' id='line_1_2' title="bbox 367 257 1930 2597; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 367 257 1930 2597; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

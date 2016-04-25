@@ -1,0 +1,40 @@
+164 THEOR. CIRCA DIVISORES NVMER. cet.
+
+ita , vt etiam viciffim omnes numeri primi in smmis-isti·-
+4Nm-i-oi contenti,simul siut diuiibres formulae aa -ὴ-
+th. Praeterea si exprcffio 4Nm÷a praebeat diuisores
+formulae aa÷Nbb ‚ tum nullus numerus huiusmodi
+4Nm—0t poterit effi: diuisor vilius numeri iu formula aa
+-i-Nbb contenti.
+Annotatio 4.
+
+Habebit autem α certos quosdam valores , qui ab in-
+dole numeri N pendebunt3 ac semper quidem vuitus crit
+Vnus ex valoribus ipsius α. Tum vero, quia de numeris pri-
+mis in formula 4Nm÷a contentis quaestio est ‚ perspicuum
+est neque vllum numerum parem ‚ neque vuum nume·-
+tum ‚ qui cum N communem habeat diuisorcm , valorem
+
+ipsius α constituere poste.
+
+Annotatio 5.
+Valores autem ipsius α omnes erunt minores quam 4 N,
+fi enim qui essent maiores , per diminutionem numeri m
+
+minores , quam 4N , reddi possent. Hinc valores ipsius α
+erunt numeri impares minores, quam 4N , atque ad N
+primi. Neque vcro omnes istiusmodi numeri impares ad
+N primi idoneos pro α valorcs exhibebunt, sed eorum
+semiffis ab hoc officio excluditur , quoniam, six fucrit m-
+lor ipsius α , tum -x scu 4N—x eius valor ess'c nequir,
+vicissimque s1 x non {inerit valor ipsius α, tum 4N—-x
+cetto eius valor sit futurus.
+
+Annotatio 6.
+
+Numerus igitur valorum ipsius a, ita vt 4Nm-i-a con-
+tiueat omncs diuiibres primos formulae αα-ὶ-Νύύ, sc-
+
+quenti modo definietur. Sint p, q, r ‚ s, cet, numeri
+primi
+

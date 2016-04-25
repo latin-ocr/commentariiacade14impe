@@ -1,0 +1,45 @@
+VNICAM VARIABILEM INVOLVENTES. 51
+
+tum. Ex his porro patet veritas non exigui momenti,
+quod omnis formulae differentialis rationalis perpetuo con-
+ceffis logarithmis et arcubus circularibus exhiberi queat3
+ita vt integratio fi algebraice absolui nequeat alias quanti-
+tates transcendentes nou requirat praeter logarithmos et
+arcus circulares. Cum igitur modus, quo ad integrale
+peruenieudum est , satis fit expofitus3 nil aliud super est,
+nifi vt Vsum cius in aliquot exemplis alias difficiliorlbus
+monstrcm1153.quae partim iam {int ab aliis tractata , par-
+tim hic de nouo producta vel saltem fufius expofita. In
+hoc autem negotio , quia praecipuum opus in inuentione
+suetorum verfirtur ‚ alia exempla proffirre non licet, nist
+in quibus &cretes denominatoris ac‘tu exhiberi queant·,
+hanc obrem in subfidium vocabimus praecipua illa artificia
+a Celeb. Moivraeo aliisque excogitata ‚ quorum beneficio
+&stores propofitae cuiuspiam expreffiouis affignari poffimt,
+ficque plura occurrent ad alge-brae finitae incrementum fit-
+cientia , quae etfi huc minus pertinent, tamen fufius pro-
+sequemur.
+
+Problema 1.
+
+§. 44. quenire integrale huius formulae differentialis
+xmdsc
+
+1 -Js—x²'‘
+
+ 
+
+ 
+
+existente m numero integro minore, quam 271.
+
+SolutiO.
+
+Si exponens m. maior esset quam 2n tum per diuisionem
+formula ad casum praesentem perduceretur3 perspicuum
+autem est denominatorem nullum omnino faetorem fim-
+plicem realem habere ‚ ex quo fictores trinomiales quaeri
+
+debebunt reales quorum numerus erit n. Sit huiusmodi
+G 2 faetor
+

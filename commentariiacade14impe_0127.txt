@@ -1,0 +1,37 @@
+mammii DIFFERENT: RATIONALES. 1 19
+
+integris in fractione ξ contentis oriuntur ‚ tum ex singulis
+&fioribus denominatoris N. Eae quidem integralis partes,
+
+quae ex quantitate integra in fractione ξ’ contenta nascun-
+tur, sunt perpetuo quantitates algebraicae3 illae autem quae
+ex finitoribus simplicibus denominatoris N proficiscuntur,
+sunt quantitates logarithmicae ‚ cum quibus etiam algebrai-
+cae coniunguntur, fi potestas cuiuspiam fastoris fimplicis
+in denominatore N contineatur3 hocque casti subinde eue-
+nire potest ‚ vt in integrali pars logarithmica penitus eua-
+nescat, solaeque quantitates algebraicae superstites maneant.
+
+Quod fi igitur denominator N omnes faetores simplices
+
+habeat reales, tum integrale formulae differentialis {¹5⁶¹AE
+
+nisi est quantitas algebraica , per logarithmos exhiberi po-
+test. Sin autem in denominatore N contineantur facto-
+res simplices imaginarii, tum quidem per methodum in·
+tegrandi hic expositam perueniretur ad logarithmos ima·
+ginarios, quos autem ‚ siquidem quantitatem realem prae
+se ferant, ad arcus circulares reduci poste constat. Supra
+autem iam obseruauimus‚ fi denominator N habeat fa-
+<stores simplices imaginarios, tum eorum numerum semper
+effe parem ‚ atque ex iis binos semper ita efle compara-
+tos, vt eorum productum fiat expressio realis. Hanc ob-
+rem loco fanorum simplicium imaginariorum formari po·
+terunt {lictores trinomiales reales , quorum numerus erit
+duplo minor , ex hisque fadroribus peruenietur ad integra-
+lis partes a quadratura circuli pendentes.
+§- 22. Praecipuum igitur negotium , fi denominator
+N habeat flietores simplices imaginarios, in hoc verfiibitur,
+vt ipsius denomiiiatoris N fiie'tores trinomiales reales ex-
+hibeantur
+

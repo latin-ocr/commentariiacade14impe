@@ -1,0 +1,42 @@
+VNICAM VARIABILEM INVOLVENTES. 39
+
+etiam si denominator formulae differentialis habeat fictores
+imaginarios, qui proinde integralis partes producant imagina-
+rias, tamen totum integrale speciem tuntum imaginarii prae se
+feret , atque re ipia erit quantitas realis. Ita vidimus in·-
+tegrale huius formulae gx] , si denominator 1 -†-xx in
+suos faetores [implices imaginarios 1 -ὶ- xva 1 et 1 *κγ — 1
+
+reloluatur , integrale componi ex duobus lognrithmis ima·
+
+Ῐ
+
+ginariis 3-ss l( 1 —†-xV— 1) -— 54¹:ss l( 1——xV- 1 ) qui au-
+
+tem simul sumti reducuntur ud quadraturam circuli, ita vt
+
+integrale fit arcus circuli, cuius tangens est :t x polito
+radio :z 1. Cum igitur quilibet nefor fimplex imagi-
+
+narius in integrale inferat Iogirithmum imaginarium , iure
+concludimus cunctos hos Iogarithmos imaginarios firnul sum-
+tos ad quadraturam circuli aliusue curuae redire ‚ quae eo-
+rum loco substituta integrali formam realem inducat De-
+monstrabimus autem omnes logarithmos imaginarios, cuius-
+cunque demum {int formae , dummodo quantitatem rea-
+lem referant, ad quadraturam circuli reuocari poste, ita
+vt nullam aliam quadraturam introducere fit opus. Hinc-
+que patebit omnis formulae differentialis rationalis , vt cun-
+que suerit composita ‚ integrale per logarithmos et quadra-
+turam circuli perpetuo exhiberi pofle , neque ad hoc v1=
+Iam aliam quadraturam requiri.
+
+§. 34. Dico autem quotcunque denominator formulae
+differentialis propositae habeat &stores simplices imagina-
+rios , tum eorum numerum semper elle parem ‚ binosque
+ex iis semper ita effe comparatos, vt eorum productum
+fiat reale. Quod ad numerum parem fastorum imagina-
+riorum attinet , id quidem iam pridem constat ‚ atque fir-
+
+minimis
+

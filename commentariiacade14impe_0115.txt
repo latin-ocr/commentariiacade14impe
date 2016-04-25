@@ -1,0 +1,40 @@
+FORMVLAS DIFFERENTIAL. RATIONALES. 107
+
+ξ. 10. Ex his igitur exemplis clare intelligitur,
+quemadmodum propofitae formulae differentialis‘, cuius de-
+nominator in mores {implices reales inter ie inactiuales
+est resolubilis, integrale inueniri oporteat, ssue variabilis
+x iu numeratore pauciores fiue plures habeat dimenfiones
+quam in denominatore. Huius negotii praecipua pars ab·
+soluitur in coefficieutis inuestigatioue per quern formula
+[βξ-[χ. multiplicari debet, vt integrale ex denominatoris
+N fastore p—1—qx oriundum obtineatur. Inuenmus au-
+tem hunc coefficientem esse ξ, postquam vbique loco x
+eius valor -ξ quem obtinet ex aequatione p-ff—qxzo
+fuerit substitutus. Hunc igitur valorem *ξ loco x tum
+in M quam iu S substitui oportet. Est autem M nu-
+
+merator formulae differentialis propositae ¹⁸3}le qui perpe·
+tuo manet idem , at S pro quouis faetore denominatoris
+
+p÷qx variatur , cum fit S z pfmx: ita vt S habea-
+tur , fi totus denominatorN per strum firctorem p -l— qx
+diuidatut. Quodsi ergo denominator N in suos faetores
+iam fuerit vel astu resolutus, vel facile resolubilis ‚ tum
+omittendo faetorem proposrtum p-4—qx statim emergit
+valor litterae S3 iu quo loco x valorem constantem -ξ
+
+substitui oportet: hocque casu expedite reperitur valor
+
+cocfficicnus ξ ponendo vbique -ξ loco x.
+
+ 
+
+ξ. 11. Siu autem quotus ‚ qui oritur ex diuifione de-
+nominatoris N per suum merorem p÷qx, fiat admo-
+dum prfflixus, vel etiam indefinitus ‚ vti fi suerit N τ..-
+1 -Ι- x³⁹ eiusque druisor 1 —4- x , vel fi fit N z 1 - κ“
+eiusque fastor 1—x: priori cuim casu quotus S constaret
+
+O 2 ex
+

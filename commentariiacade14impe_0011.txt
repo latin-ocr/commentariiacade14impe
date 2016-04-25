@@ -1,0 +1,36 @@
+————-————-—-—--—-.-——-—-—.——
+
+METHODVS INTEGRANDI
+
+F ORMVLAS DIFFERENTIALES RATIONALES VNL
+
+CAM VARIABIZIJTWRINVOLVENTES.
+o Ε
+
+L. Eulero,
+ς 1.
+
+mnes formulae differentiales‚‘ quarum integrationem
+
+hic sum traditurus , continentur in hac forma gea
+
+nerali de , vbi X denotat funestionem quam·
+'cunque rationalem ipsius x. Cum igitur omnis fimffio
+rationalis fit vel integra vel fracta , traCtatio nostra effet
+bipartita constituenda , nisr‘integratio illis cafibus , quibus
+X est funCtio integra , nulla laboraret difficultate. Si enim
+X huiusmodi est funtstio ‚ denominatore ,q qui quidem varia-
+bilem x complectatur , destituta ‚ semper ad hanc formam
+reuocabitur , vt sit:
+
+XzA÷Bx÷Cx'÷Dx'-†—Ex⁴-1-Fx'etc.
+hocque casu erit
+s xcix-222-4—Ax-4-313x’-÷-{Cx'-}-÷Dx‘-÷—÷Ex‘-}- etc.
+vbi Δ constantem quamcunque denotat. Latius autem
+ratio huius integrationis patet ‚ atque ad exponentes ipsius
+x non solum integros affirmatiuos fied etiam negatiuos et
+fractos extenditur. Ita fi m ,n ,p , q etc. exponant nu-
+meros quoscunque siue integros fiue trastos , flue pofitiuos
+flue negatiuos , fueritque
+A z X:
+

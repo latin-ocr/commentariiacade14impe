@@ -1,0 +1,38 @@
+THEOR. CIRCA DIVISORES NVMER. cet. 175
+
+merus pat nec vnus diuisor numeri N. Deinde etiam ma-
+nifestum est , omnes valores ipsius α ita ordinari posse, vt
+snit minores quam 2N. Si enim sit 4Nm÷2N÷b
+diuisor, tum posito m—1 loco m , diuisor erit 4Nm—
+(2 N -b). Erunt ergo valores ipsius α numeri impares pri·-
+mi ad N, minores quam 2 N , horumque numerorum
+omnium imparium et primorum ad N et minorum, quam
+2 N , semiffis tantum praebebit idoneos valores ipsius α,
+reliqui exhibebunt formulas, in quibus plane nullus conti-
+netur diuiibr. Perpetuo scilicet totidem habebuntur for-
+mulae diuisorum‚ quot sunt contrariae, solo excepto casu ,
+quo N :2 1.
+
+Annotatio 15.
+
+de ad numerum valorum ipfius α pro formula diuiso-
+rum 4Ntnssoe attinet, quoniam ob {ignum ambiguum
+quaeuis formula est duplex , hic quoque eadem valebit re-
+gula , quam [upra annot. 6. dedi. Sic in vltimo theo·
+rem-ite , quo erat N z 105 z: 3, 5, 7, numerus va-
+lorum ipsius α erit: 2, 4, 6 z: 48 , seu cum quaeuis
+formula sit gemina , numerus formularum fit 24 , quot
+etiarn exhibuimus.
+
+Annotatio 16.
+
+Sicut autem vnit215 perpetuo inter valores ipsius α reperi-
+tur, ita etiam- quiuis numerus quadratus, qui fit primus
+ad 4N , valorem idoneum pro α suppeditabit. Pofito enim
+θῖνα, tbi-mula aa-Nbb abit in aa—4Ncc ῐὲιι 4N
+ccssaa, ex quo patet quemuis numerum quadmtum aa,
+qui fit primus ad 4N , exhibere valorem idoneum pro α,
+sumendo scilicet residuo , quod in diuisrone ipfius aa per
+
+4 N
+

@@ -1,0 +1,46 @@
+THEOR. cmc-A DIVISORES NVMER. eet. 165
+
+primi inter se diuers] , excepto binario ‚ qui seotslm est
+considerandus3 atque
+
+ 
+
+fi fuerit erit valorum ipfius α numerus
+Nzx 1
+
+sz 2
+
+N-:p p-——l
+
+Nz2p 2(p—1)
+
+szq (p-1)(q-1)
+N12pq Ι 2(p-1)(q-1)
+szqr (P-1)(q-1)(r-1)
+N22pqr 1 -(p-1)(q-1)(r-1)
+
+etc.
+
+Annotatio 7.
+
+Quemadmodum autem vnitas semper reperitur inter valo-
+tes ipfius α . ita etiam quiuis numerus quadratus impar
+et primus ad N locum hibere debet in valoribus ipsius
+2.Pos1to enim b numero piriz „.,c fimnuh fiet aa-†-
+4Ncc , quae, fi sit numerus primus, contineri debet in
+expressione 4Νηι-ὶ-α, Ergo α erit aa vel refiduum‚
+quod ex diuisione ipfius aa per 4N remanet. Simili
+modo inter valores ipsius α reperiri debent omnes numeri
+aa÷N ‚ vel quae ex eorum pet 4N diuifione super-
+erunt refidua3 posito enim bzzc÷1 fiet aa÷th
+:aa-‹k-N—k4ch-i—c) , qui, fi fuerit numerus prif
+mus , debebit aa-J1-N effe valor ipsius α’.
+
+Annotatio 8.
+
+Intelligitur etiam ‚ si xffierit valor ipsius α, tum quoque
+xx (quod quidem ex praecedente patet) et omnes omni-
+no potestates ipfiusx ‚ puta ‚1⁴ss intes valores ipsius α lo-
+
+X 3 cum
+
